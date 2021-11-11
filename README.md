@@ -11,8 +11,7 @@
 <p>
   <em>
     I am an undergraduate from <a href="https://djsce.ac.in//"> <b>Dwarkadas J. Sanghvi College of Engineering</b>, Mumbai</a>.  
-    A <b>Tech Enthusiast,</b> who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> and <b>excel.
+    A <b>Tech Enthusiast,</b> who is <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel.
   </em>  
 </p>
 
@@ -26,9 +25,10 @@
 <br>
   
   ![](https://komarev.com/ghpvc/?username=harsh9987&color=red&style=flat&label=PROFILE+VIEWS)
-  
+    
 <br>
-  
+  Readme.md inspired by <a href=https://github.com/IMMANUEL44> <b>Immanuel Biro</b>
+    
   # Connect with me<img src="https://github.com/IMMANUEL44/IMMANUEL44/blob/master/Assets/Handshake.gif" height="30px">
   
 
