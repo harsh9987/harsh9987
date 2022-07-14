@@ -4,10 +4,9 @@
     &nbsp; [![HitCount](http://hits.dwyl.com/harsh9987/harsh9987.svg)](http://hits.dwyl.com/harsh9987/harsh9987) 
 -->
 
-<img align="right" alt="Vader" src="https://github.com/harsh9987/harsh9987/blob/main/Assets/vader.gif" width="169" />
+<img align="right" alt="Vader" src="https://github.com/harsh9987/harsh9987/blob/main/Assets/vader.gif" width="200" />
 
 ### <img src="https://github.com/harsh9987/harsh9987/blob/main/Assets/pepe-pepe-the-frog.gif" width="29px"> **Hello world!**&nbsp;
-
 <p>
   <em>
     I am an undergraduate from <a href="https://djsce.ac.in//"> <b>Dwarkadas J. Sanghvi College of Engineering</b>, Mumbai</a>.  
@@ -16,7 +15,7 @@
 </p>
 
 <br>
-
+    
 - I *maybe* **sleeping** 😴 or on my **phone** 📱
 - **Pronouns:** [*He/Him*](https://pronoun.is/he)👱‍♂️
 - My *smartness* 💡 lies in my *laziness* 😪
@@ -26,7 +25,7 @@
   ![](https://komarev.com/ghpvc/?username=harsh9987&color=red&style=flat&label=PROFILE+VIEWS)
     
 <br>
-  <b>Readme.md</b> inspired by <a href=https://github.com/iamimmanuelraj> <b>Immanuel Raj</b>
+  Readme.md inspired by <a href=https://github.com/iamimmanuelraj> <b>Immanuel Raj</b>
     
   # Connect with me
   
