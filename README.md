@@ -4,7 +4,7 @@
     &nbsp; [![HitCount](http://hits.dwyl.com/harsh9987/harsh9987.svg)](http://hits.dwyl.com/harsh9987/harsh9987) 
 -->
 
-<img align="right" alt="Vader" src="https://github.com/harsh9987/harsh9987/blob/main/Assets/vader.gif" width="200" />
+<img align="right" alt="Vader" src="https://github.com/harsh9987/harsh9987/blob/main/Assets/vader.gif" width="169" />
 
 ### <img src="https://github.com/harsh9987/harsh9987/blob/main/Assets/pepe-pepe-the-frog.gif" width="29px"> **Hello world!**&nbsp;
 <p>
@@ -21,11 +21,12 @@
 - My *smartness* 💡 lies in my *laziness* 😪
 
 <br>
+
+<img alt="Palpatine" src="https://github.com/harsh9987/harsh9987/blob/main/Assets/palpatine.gif" width="120" />
   
-  ![](https://komarev.com/ghpvc/?username=harsh9987&color=red&style=flat&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=harsh9987&color=red&style=flat&label=PROFILE+VIEWS)
     
-<br>
-  Readme.md inspired by <a href=https://github.com/iamimmanuelraj> <b>Immanuel Raj</b>
+Readme.md inspired by <a href=https://github.com/iamimmanuelraj> <b>Immanuel Raj</b>
     
   # Connect with me
   
