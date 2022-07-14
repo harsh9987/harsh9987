@@ -1,4 +1,4 @@
-# Harsh&nbsp;<img src="https://github.com/harsh9987/harsh9987/blob/main/Assets/dance-skeleton.gif" width="30px">
+# Harsh&nbsp;
 
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/harsh9987/harsh9987.svg)](http://hits.dwyl.com/harsh9987/harsh9987) 
