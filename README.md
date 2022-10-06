@@ -28,7 +28,7 @@
     
 Readme.md inspired by <a href=https://github.com/iamimmanuelraj> <b>Immanuel Raj</b>
     
-  # Connect with me
+  # How to Contact Me
   
 
   | [<img src="https://github.com/harsh9987/harsh9987/blob/main/Assets/LI-In-Bug.png" alt="Linkedin Logo" width="50">](https://www.linkedin.com/in/harsh9987/) | [<img src="https://github.com/harsh9987/harsh9987/blob/main/Assets/Octocat.png" alt="Github logo" width="50">](https://github.com/harsh9987) | [<img src="https://github.com/harsh9987/harsh9987/blob/main/Assets/gmail.png" alt="Gmail logo" width="50">](mailto:shaharsh24@gmail.com) | [<img src="https://github.com/harsh9987/harsh9987/blob/main/Assets/instagram.png" alt="Instagram Logo" width="50">](https://www.instagram.com/harsh_shah_1)
